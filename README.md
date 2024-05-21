@@ -19,10 +19,9 @@ This project will employ category analysis, clustering, and data visualization t
 
 ## 📌 Repository Structure
 
-- **data/**: Folder containing the dataset used in the analysis.
-- **notebooks/**: Folder containing Jupyter notebooks used for data analysis and insight generation.
-- **scripts/**: Folder containing auxiliary scripts or functions used in the project.
-- **docs/**: Optional folder that may contain additional documentation, result reports, etc.
+- **CLUSTERING_INSIGHTS.ipynb**: contains the code for the analysis.
+- **README**: General information about the case study.
+- **TRANSACTIONAL_EVENTO23**: Raw Data.
 
 ## 📌 Code Usage
 
